@@ -21,4 +21,6 @@
    * This allows you to make chhanges in someone's project without affecting their original project.
 
   ### PULL REQUEST
-   *
+   * You can use the pul requests to tell others about the changes make on their project and ask for their feedback.
+  ### ISSUES
+   * Tis is simply used to track bugs you have found and it can also be used to tell an open source about a bug you have found
