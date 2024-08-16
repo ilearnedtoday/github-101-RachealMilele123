@@ -23,4 +23,13 @@
   ### PULL REQUEST
    * You can use the pul requests to tell others about the changes make on their project and ask for their feedback.
   ### ISSUES
-   * Tis is simply used to track bugs you have found and it can also be used to tell an open source about a bug you have found
+   * This is simply used to track bugs you have found and it can also be used to tell an open source about a bug you have found or feature you can add.
+ 
+  ### PROFILE
+     * This is where you tell people about yourself, what your are interested in and contributions you have made with your profile README.
+
+* I have also learnt about **committing and pushing**, where you can add changes to your project.
+### I am still a little confused on the  **Clonning** part.
+ 
+##Learning this has really helped me with knowing something about Github, its terms, how to use them and so on.
+ My goal is to continue learning more and exploring more things on Github.
