@@ -22,10 +22,11 @@
 
   ### PULL REQUEST
    * You can use the pul requests to tell others about the changes make on their project and ask for their feedback.
-  ### ISSUES
+
+   ### ISSUES
    * This is simply used to track bugs you have found and it can also be used to tell an open source about a bug you have found or feature you can add.
  
-  ### PROFILE
+  ### PROFILE👩
      * This is where you tell people about yourself, what your are interested in and contributions you have made with your profile README.
 
 * I have also learnt about **committing and pushing**, where you can add changes to your project.
