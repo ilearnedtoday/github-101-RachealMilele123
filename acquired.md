@@ -30,7 +30,7 @@
      * This is where you tell people about yourself, what your are interested in and contributions you have made with your profile README.
 
 * I have also learnt about **committing and pushing**, where you can add changes to your project.
-### I am still a little confused on the  **Clonning** part.
+### I am still a little confused on the  **Clonning** part and the pull requests.
  
 ##Learning this has really helped me with knowing something about Github, its terms, how to use them and so on.
  My goal is to continue learning more and exploring more things on Github.
